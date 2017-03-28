@@ -12,7 +12,7 @@ public class Test {
 		}
 		
 		System.out.print(sb);
-		
+		System.out.print(sb);
 	}
 
 }
